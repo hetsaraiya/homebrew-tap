@@ -3,7 +3,7 @@
 Install the latest tagged release:
 
 ```bash
-brew install --cask hetsaraiya/cask/wigly-woo
+brew install --cask hetsaraiya/tap/wigly-woo
 ```
 
 The cask is updated automatically by the
