@@ -1,9 +1,9 @@
 cask "wigly-woo" do
   arch arm: "arm64", intel: "x86_64"
 
-  version "0.1.1"
-  sha256 arm:   "f16e0ba645641ba63c3eddadbb98e6a29335ad84366d19258a34ec8c9938992f",
-         intel: "a2ed71cb2447e290173de8e5ef438080d8849478f8066ccb123cd7e821ddfb49"
+  version "0.1.2"
+  sha256 arm:   "cd03fbeca8f7109b3f9d46f6b87fca2c363b2922823e3711b3b40a8cbfc02bb4",
+         intel: "5c7cec6392ff49d1e308577aed71ef3030ab1c3da4302fbbedf20f7dd2a32958"
 
   url "https://github.com/hetsaraiya/wigly-woo/releases/download/v#{version}/WiglyWoo-v#{version}-macos-#{arch}.zip"
   name "Wigly Woo"
